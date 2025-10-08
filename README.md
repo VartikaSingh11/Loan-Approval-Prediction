@@ -10,6 +10,8 @@ Performs exploratory data analysis (EDA) to understand key trends and relationsh
 Handles missing values, outliers, and categorical encoding effectively.
 Trains multiple classification models to predict loan approval.
 Evaluates performance using key metrics such as accuracy, precision, recall, and F1-score.
+
+
 📊 Dataset
 
 The dataset contains details of loan applicants, including:
@@ -35,12 +37,12 @@ Exploratory Data Analysis (EDA)
 Visualized relationships between independent features and the target variable.
 Explored income distribution, loan amount patterns, and credit history impacts.
 
-Feature Engineering
+Feature Engineering:-
 
 Encoded categorical variables using Label Encoding / One-Hot Encoding.
 Normalized numerical features to improve model performance.
 
-Model Building
+Model Building:-
 
 Implemented multiple models such as:
 Logistic Regression
@@ -49,13 +51,15 @@ Random Forest
 Support Vector Machine (SVM)
 Tuned hyperparameters to optimize results.
 
-Model Evaluation
+Model Evaluation:-
 
 Evaluated models using metrics like:
 Accuracy
 Confusion Matrix
 Precision, Recall, F1-score
 Selected the best-performing model based on evaluation results.
+
+
 🧩 Technologies Used
 Python
 NumPy, Pandas – Data manipulation and analysis
