@@ -61,6 +61,7 @@ Selected the best-performing model based on evaluation results.
 
 
 🧩 Technologies Used
+
 Python
 NumPy, Pandas – Data manipulation and analysis
 Matplotlib, Seaborn – Data visualization
@@ -69,6 +70,7 @@ Jupyter Notebook
 
 
 📈 Results
+
 Achieved high accuracy in predicting loan approvals.
 Identified key features impacting approvals — Credit_History, ApplicantIncome, and LoanAmount.
 Demonstrated that ensemble methods like Random Forest performed best in balancing precision and recall.
